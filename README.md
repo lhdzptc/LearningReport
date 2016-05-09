@@ -5,4 +5,4 @@
 以**学习、交流**为目的，以**轮流讲座**的形式进行，不定期的选取**短、平、快**的内容进行学习、交流。
 
 ## 讲座
-1. 王海庆 [Markdown讲座](Markdown.md)
+1. 王海庆 [Markdown讲座](Markdown.md)  [参考博文](//blog.csdn.net/whqet/article/details/44900145) [视频教程](//edu.csdn.net/course/detail/553)
