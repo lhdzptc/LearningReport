@@ -3,8 +3,7 @@
 2. [Markdown基本使用](#use)
 3. [Markdown表格和公式](#table)
 
-#about
-# 1.关于Markdown
+# about 1.关于Markdown
 ![简明教程1-关于Markdown](http://img.blog.csdn.net/20150315100429879)
 
 ## 1.1前言
@@ -59,8 +58,7 @@ Markdown 是一种用来写作的轻量级「标记语言」， 可以轻松转�
 
 [回目录](#index)
 
-# use
-# 2. Markdown基本使用
+# use 2. Markdown基本使用
 ![简明教程2-Markdown基本使用](http://img.blog.csdn.net/20150315154015934)
 
 ## 2.1 前言
