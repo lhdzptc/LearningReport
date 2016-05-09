@@ -1,4 +1,9 @@
 # index
+1. [关于Markdown](#about)
+2. [Markdown基本使用](#use)
+3. [Markdown表格和公式](#table)
+
+#about
 # 1.关于Markdown
 ![简明教程1-关于Markdown](http://img.blog.csdn.net/20150315100429879)
 
@@ -13,7 +18,6 @@ Markdown是一种轻量级的标记语言，把作者从繁杂的排版工作中
 - Markdown UML绘图
 
 ## 1.2啥是Markdown
-
 Markdown的目标是实现**易读易写**，成为一种**适用于网络的书写语言**。  
 我们写作文章时经常会遇到一些困扰。试想一下，您在使用Word写作文档，您经常需要暂停写作，选中某个部分，然后利用排版工具为该部分添加排版格式，然后才能继续您的写作；如果你要写网络文档，情况可能更糟，如果需要呈现一个列表，您需要使用```<ul><li>```等若干多的标签实现；我们的写作思路经常会被各种各样的排版操作而打断，使我们不能专注于写作。  
 Markdown正是为此而生，用简洁的语法代替排版，把作者从繁杂的排版操作中解放出来，**更加专注于写作内容**， 内容、格式、插图、代码、甚至公式、流程图等，只需要使用键盘即可完成，**轻松完成文章写作**。
@@ -55,6 +59,7 @@ Markdown 是一种用来写作的轻量级「标记语言」， 可以轻松转�
 
 [回目录](#index)
 
+# use
 # 2. Markdown基本使用
 ![简明教程2-Markdown基本使用](http://img.blog.csdn.net/20150315154015934)
 
@@ -448,6 +453,9 @@ _   底线
 2. 利用在线编辑工具体验Markdown，例如[markable](http://markable.in/editor/)，或[stackedit](https://stackedit.io/editor), 或[作业部落](https://www.zybuluo.com/mdeditor)等。
 3. 下载客户端，window平台下的[MarkdownPad](http://markdownpad.com/)或mac平台下的[mou](http://25.io/mou/)。
 
+[回目录](#index)
+
+# table
 # 3. Markdown的表格和公式
 ![Markdown简明教程3-Markdown表格和公式](http://img.blog.csdn.net/20150315213015570)
 ## 3.1 前言
@@ -670,6 +678,4 @@ $$
  4. [Mathjax与LaTex公式简介](http://mlworks.cn/posts/introduction-to-mathjax-and-latex-expression/)
  5. 小敏纸的[博文](http://blog.csdn.net/lanxuezaipiao/article/details/44341645)
 
- [回目录](#link)
-
-# 4.
+[回目录](#index)
