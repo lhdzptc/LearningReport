@@ -7,16 +7,16 @@
 
 ## 知识&发现
 
-1. 王海庆 [Markdown讲座](//github.com/HappyFedClub/LearningReport/blob/master/markdown.md)  [参考博文](//blog.csdn.net/whqet/article/details/44900145) [视频教程](//edu.csdn.net/course/detail/553)
+#### 1. 王海庆 [Markdown讲座](//github.com/HappyFedClub/LearningReport/blob/master/markdown.md)  [参考博文](//blog.csdn.net/whqet/article/details/44900145) [视频教程](//edu.csdn.net/course/detail/553)
 
 ## 读书&发现
 
-### 1. 《[匠人精神](https://book.douban.com/subject/26652812/)》-赵凯峰荐
+#### 1. 《[匠人精神](https://book.douban.com/subject/26652812/)》-赵凯峰荐
   ![匠人精神](https://img1.doubanio.com/lpic/s28343659.jpg "匠人精神")
   
   介绍师徒制环境下匠人成长的书， 提倡**一生只做一件事儿**，**孝道育人**，注重**细节**、**礼仪**等，值得一看。
   
-### 2. 《[哲学家们都干了些什么](https://book.douban.com/subject/26390842/)》-俞老师荐
+#### 2. 《[哲学家们都干了些什么](https://book.douban.com/subject/26390842/)》-俞老师荐
   ![哲学家都干了什么](https://img3.doubanio.com/lpic/s28073424.jpg "哲学家都干了什么")
   
   哲学史写得这么浅白风趣八卦，你让我们哲学系的人还怎么混？！轰动豆瓣的奇葩之书，连续三年蝉联豆瓣电子阅读榜第一的神作。
