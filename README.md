@@ -32,4 +32,4 @@
 
 1. [如何通俗易懂地向初学者通解释 jQuery、CSS3 和 HTML5 的关系？](https://www.zhihu.com/question/20408103)
 2. [CSS 那么多属性，而且每个属性都有多个值怎么记？](https://www.zhihu.com/question/31317160)
-3. 
+3. [我是这样学习前端的](https://github.com/icepy/_posts/issues/39)
