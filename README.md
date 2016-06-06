@@ -8,8 +8,7 @@
 ## 知识&发现
 
 #### 1. 王海庆 [Markdown讲座](//github.com/HappyFedClub/LearningReport/blob/master/markdown.md)  [参考博文](//blog.csdn.net/whqet/article/details/44900145) [视频教程](//edu.csdn.net/course/detail/553)
-#### 2. 王海庆 [git解读](//github.com/HappyFedClub/LearningReport/blob/master/git/git.md)  [git简易指南](http://www.bootcss.com/p/git-guide/) [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0003) [git权威指南]() 
-[cmder-带git的命令行工具下载](cmder.zip)
+#### 2. 王海庆 [git解读](//github.com/HappyFedClub/LearningReport/blob/master/git/git.md)  [git简易指南](http://www.bootcss.com/p/git-guide/) [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0003) [git权威指南]() [cmder-带git的命令行工具下载](cmder.zip)
 
 ## 读书&发现
 
