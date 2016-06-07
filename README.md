@@ -37,7 +37,7 @@
 - 王瑶 [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
 - 尹飞燕 [Ways You Need To Tell The Browser How To Optimize](https://css-tricks.com/ways-need-tell-browser-optimize/)
 - 周冰婕 [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css)
-- 单超艺 [https://css-tricks.com/tips-aligning-icons-text/](https://css-tricks.com/tips-aligning-icons-text/)
+- 单超艺 [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/)
 - 鲁好德 [ease-out, in; ease-in, out](https://css-tricks.com/ease-out-in-ease-in-out/)
 - 郑爱萍 [http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016](http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016)
 - 徐道聪 [Make a Responsive Animated Walk Cycle with SVG and CSS steps()](http://thenewcode.com/1082/Make-a-Responsive-Animated-Walk-Cycle-with-SVG-and-CSS-steps)
