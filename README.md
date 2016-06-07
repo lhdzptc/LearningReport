@@ -5,7 +5,7 @@
 
 以**学习、交流**为目的，以**轮流讲座**的形式进行，不定期的选取**短、平、快**的内容进行学习、交流。
 
-## 知识&发现
+## 交流&发现
 #### 1. 王海庆 [Markdown讲座](//github.com/HappyFedClub/LearningReport/blob/master/markdown.md)  [参考博文](//blog.csdn.net/whqet/article/details/44900145) [视频教程](//edu.csdn.net/course/detail/553)
 #### 2. 王海庆 [git解读](//github.com/HappyFedClub/LearningReport/blob/master/git/git.md)  [git简易指南](http://www.bootcss.com/p/git-guide/) [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b0003) [git权威指南]() [cmder-带git的命令行工具下载](cmder.zip)
 
@@ -28,6 +28,8 @@
 1. [如何通俗易懂地向初学者通解释 jQuery、CSS3 和 HTML5 的关系？](https://www.zhihu.com/question/20408103)
 2. [CSS 那么多属性，而且每个属性都有多个值怎么记？](https://www.zhihu.com/question/31317160)
 3. [我是这样学习前端的](https://github.com/icepy/_posts/issues/39)
+4. [Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack/blob/master/README.zh-cn.md)
+5. [前端开发知识结构](https://github.com/JacksonTian/fks)
 
 ## 文章&发现
 #### 1. 第一次翻译
