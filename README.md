@@ -39,7 +39,7 @@
 - 周冰婕 [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css)
 - 单超艺 [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/)
 - 鲁好德 [ease-out, in; ease-in, out](https://css-tricks.com/ease-out-in-ease-in-out/)
-- 郑爱萍 [http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016](http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016)
+- 郑爱萍 [Four Ways To Improve Your Code In 2016](http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016)
 - 徐道聪 [Make a Responsive Animated Walk Cycle with SVG and CSS steps()](http://thenewcode.com/1082/Make-a-Responsive-Animated-Walk-Cycle-with-SVG-and-CSS-steps)
 - 谢秀提 [Limitations on Styling Visited Links](http://thenewcode.com/1043/Limitations-on-Styling-Visited-Links)
 
