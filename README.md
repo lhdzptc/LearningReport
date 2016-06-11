@@ -25,11 +25,14 @@
 我非常喜欢他做事的激情和突破自己的勇气，大家可以看看他的演讲[感谢你给我机会上场](http://www.iqiyi.com/v_19rroni9g4.html)。
 
 ## 话题&发现
+
 1. [如何通俗易懂地向初学者通解释 jQuery、CSS3 和 HTML5 的关系？](https://www.zhihu.com/question/20408103)
 2. [CSS 那么多属性，而且每个属性都有多个值怎么记？](https://www.zhihu.com/question/31317160)
 3. [我是这样学习前端的](https://github.com/icepy/_posts/issues/39)
 4. [Web前端技术栈](https://github.com/unruledboy/WebFrontEndStack/blob/master/README.zh-cn.md)
 5. [前端开发知识结构](https://github.com/JacksonTian/fks)
+6. [前端导航](http://www.daqianduan.com/nav)
+7. [Everything in head tag](https://github.com/whqet/HEAD)
 
 ## 文章&发现
 #### 1. 第一次翻译
