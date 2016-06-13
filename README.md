@@ -47,5 +47,5 @@
 - 郑爱萍 [Four Ways To Improve Your Code In 2016](http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016)
 - 徐道聪 [Make a Responsive Animated Walk Cycle with SVG and CSS steps()](http://thenewcode.com/1082/Make-a-Responsive-Animated-Walk-Cycle-with-SVG-and-CSS-steps)[翻译](http://xuxiaoshang.github.io/fanyi/fanyi.html
 )
-- 谢秀提 [Limitations on Styling Visited Links](http://thenewcode.com/1043/Limitations-on-Styling-Visited-Links)
+- 谢秀提 [Limitations on Styling Visited Links](http://thenewcode.com/1043/Limitations-on-Styling-Visited-Links)[翻译](//github.com/xiexiuti/xiexiuti.github.io/blob/master/英语翻译’.doc)
 
