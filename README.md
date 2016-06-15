@@ -33,6 +33,7 @@
 5. [前端开发知识结构](https://github.com/JacksonTian/fks)
 6. [前端导航](http://www.daqianduan.com/nav)
 7. [Everything in head tag](https://github.com/whqet/HEAD)
+8. [前端大牛们都学过哪些东西？](https://www.zhihu.com/question/22146521)
 
 ## 文章&发现
 #### 1. 第一次翻译
