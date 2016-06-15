@@ -44,7 +44,7 @@
 - 王瑶 [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/) [翻译](https://blacklike.github.io/happylearn/fanyi.html)
 - 尹飞燕 [Ways You Need To Tell The Browser How To Optimize](https://css-tricks.com/ways-need-tell-browser-optimize/)  [翻译](https://github.com/Ysidm/team.github.io/blob/master/fanyi-one.md)
 - 周冰婕 [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css) [翻译](https://zptczbj.github.io/weeks/fanyi.html)
-- 单超艺 [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/)[翻译](https://Mometime.github.io/tips.htm)
+- 单超艺 [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/) [翻译](https://Mometime.github.io/tips.htm)
 - 鲁好德 [ease-out, in; ease-in, out](https://css-tricks.com/ease-out-in-ease-in-out/)
 - 郑爱萍 [Four Ways To Improve Your Code In 2016](http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016)
 - 徐道聪 [Make a Responsive Animated Walk Cycle with SVG and CSS steps()](http://thenewcode.com/1082/Make-a-Responsive-Animated-Walk-Cycle-with-SVG-and-CSS-steps) [翻译](http://xuxiaoshang.github.io/fanyi/fanyi.html
