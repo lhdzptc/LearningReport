@@ -45,8 +45,7 @@
 - 尹飞燕 [Ways You Need To Tell The Browser How To Optimize](https://css-tricks.com/ways-need-tell-browser-optimize/)  [翻译](https://github.com/Ysidm/team.github.io/blob/master/fanyi-one.md)
 - 周冰婕 [More Meaningful CSS](http://snook.ca/archives/html_and_css/more-meaningful-css) [翻译](https://zptczbj.github.io/weeks/fanyi.html)
 - 单超艺 [Tips for Aligning Icons to Text](https://css-tricks.com/tips-aligning-icons-text/) [翻译](https://Mometime.github.io/tips.htm)
-- 鲁好德 [ease-out, in; ease-in, out](https://css-tricks.com/ease-out-in-ease-in-out/)
-- [翻译](https://lhdzptc.github.io/lhdfanyi.html.html)
+- 鲁好德 [ease-out, in; ease-in, out](https://css-tricks.com/ease-out-in-ease-in-out/)[翻译](https://lhdzptc.github.io/lhdfanyi.html.html)
 - 郑爱萍 [Four Ways To Improve Your Code In 2016](http://thenewcode.com/349/Four-Ways-To-Improve-Your-Code-In-2016)[翻译](https://aipingzheng.github.io/translate.html)
 - 徐道聪 [Make a Responsive Animated Walk Cycle with SVG and CSS steps()](http://thenewcode.com/1082/Make-a-Responsive-Animated-Walk-Cycle-with-SVG-and-CSS-steps) [翻译](http://xuxiaoshang.github.io/fanyi/fanyi.html
 )
